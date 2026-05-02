@@ -2,49 +2,66 @@
 
 Operator × Builder focused on 0→1 execution, growth systems, and product thinking.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalarikkalmathew-cmyk&show_icons=true&theme=dark)
+
 ---
 
-## What I do
+## ⚡ What I do
 
 - 🚀 Lead city operations at Rapido (Kochi, Nashik, Nagpur)
-- 📈 Scaled 0→5K rides/day in Kerala
+- 📈 Scaled 0 → 5K rides/day in Kerala
 - 🛠 Build tools, systems, and products (AI resume, finance tracker, SMB accounting)
 
 ---
 
-## What I work on
+## 🧠 What I work on
 
 - ⚙️ Operations → systems → scale
 - 📊 SQL + Google Sheets automation
 - 🤖 AI tools replacing manual workflows
-- 🧠 Growth + marketplace dynamics
+- 📦 Growth + marketplace dynamics
 
 ---
 
-## Projects
+## 🏗 Projects
 
-- [AI Resume Website](https://kalarikkalmathew-cmyk-ai-resume.netlify.app/) — AI-powered resume builder
+- 🔗 [AI Resume](https://kalarikkalmathew-cmyk-ai-resume.netlify.app/) — Chat with my resume
 - 💰 Personal Finance Tracker
 - 🧾 Io — SMB Accounting Tool
 
 ---
 
-## About Me
+## 📊 Evidence
 
-- Ex: Zomato (City Head Kochi)
-- Ex: AIonOS (Founder's Office, employee #5)
-- Ex: Deloitte (Audit)
-- Exploring: Founder's Office / VC / Growth Ops roles
+- Built and scaled bike taxi ops: 0 → 5K rides/day in 30 days
+- Managed 3 cities simultaneously
+- Led team of 20 across ops + growth
+- Launched category in regulated market (Kerala)
 
 ---
 
-## Contact
+## 📍 Background
+
+- Rapido — Manager, City Operations
+- Zomato — City Head, Kochi
+- AIonOS — Founder's Office (Employee #5)
+- Deloitte — Audit
+
+---
+
+## 🤖 AI Resume
+
+Ask anything about my work, decisions, or experience:
+
+👉 [kalarikkalmathew-cmyk-ai-resume.netlify.app](https://kalarikkalmathew-cmyk-ai-resume.netlify.app/)
+
+---
+
+## 🤝 Contact
 
 - [LinkedIn](https://linkedin.com/in/matt-kalarikkal)
 - Email: kalarikkalmathew@gmail.com
 
 ---
 
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
-![Python](https://img.shields.io/badge/Python-Beginner-yellow)
-![Automation](https://img.shields.io/badge/Automation-Expert-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalarikkalmathew-cmyk&layout=compact&theme=dark)
