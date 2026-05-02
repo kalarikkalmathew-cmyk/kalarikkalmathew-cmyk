@@ -23,8 +23,8 @@ Operator × Builder focused on 0→1 execution, growth systems, and product thin
 
 ## Projects
 
-- [AI Resume Website](#) — AI-powered resume builder
-- 💰 Personal Finance Tracker — Track expenses & savings
+- [AI Resume Website](https://kalarikkalmathew-cmyk-ai-resume.netlify.app/) — AI-powered resume builder
+- 💰 Personal Finance Tracker
 - 🧾 Io — SMB Accounting Tool
 
 ---
@@ -40,8 +40,8 @@ Operator × Builder focused on 0→1 execution, growth systems, and product thin
 
 ## Contact
 
-- LinkedIn: [link]
-- Email: [email]
+- [LinkedIn](https://linkedin.com/in/matt-kalarikkal)
+- Email: kalarikkalmathew@gmail.com
 
 ---
 
