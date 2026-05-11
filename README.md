@@ -2,8 +2,6 @@
 
 Operator × Builder focused on 0→1 execution, growth systems, and product thinking.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kalarikkalmathew-cmyk&show_icons=true&theme=dark)
-
 ---
 
 ## ⚡ What I do
